@@ -1,3 +1,4 @@
+import './App.css'
 import {Header, Footer, Blog, Possibility, Features, WhatGPT3} from './containers'
 import {CTA, Brand, Navbar} from './components'
 
