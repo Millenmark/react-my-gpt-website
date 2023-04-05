@@ -1,5 +1,6 @@
 import './NavbarStyles.css'
 import {RiMenu3Line, RiCloseLine} from 'react-icons/ri'
+import logo from '../../assets/images/logo.svg'
 import React from 'react'
 
 //BEM - Block Element Modifier - CSS Naming Convention
