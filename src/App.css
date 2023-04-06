@@ -8,6 +8,8 @@
 body {
   color: white;
   background-color: var(--color-bg);
+
+  font-family: var(--font-family);
 }
 
 a {
