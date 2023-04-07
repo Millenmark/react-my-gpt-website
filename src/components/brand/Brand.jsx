@@ -11,7 +11,7 @@ const Brand = () => {
       {
         brandNames.map((name, index) => (
           <div key={index}>
-            <img src={brands[name]} alt="google" />
+            <img src={brands[name]} alt={name} />
           </div>
         ))
       }
